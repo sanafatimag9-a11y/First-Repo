@@ -4,4 +4,4 @@ Role: student
 
 Course: basics of git and github
 
-hello world
+week 1
